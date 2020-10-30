@@ -1,1 +1,5 @@
-# COMP229-F2020-Midterm-430783639
+
+#MidTerm Test - the Favourite Book List App
+
+Student: Amanpreet
+Student Id: 301128256
